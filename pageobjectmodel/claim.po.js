@@ -1,0 +1,3 @@
+class claimpage{
+    return()
+}
